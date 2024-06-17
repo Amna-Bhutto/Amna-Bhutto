@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amna Bhutto</h1>
 
 
-- 🌱 I’m currently learning **Programming Fundamentals using python.**
+- 🌱 I’m currently learning **Object Oriented Programming using python.**
 
 - 👯 I’m looking to collaborate on **Python Project**
 
