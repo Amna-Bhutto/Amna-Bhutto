@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amna Bhutto</h1>
-<h3 align="center">Python Developer From Pakistan</h3>
+
 
 - 🌱 I’m currently learning **Programming Fundamentals using python.**
 
