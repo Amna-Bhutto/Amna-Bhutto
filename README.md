@@ -16,8 +16,11 @@
 <a href="https://linkedin.com/in/amna-bhutto-0ba0a0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amna-bhutto-0ba0a0304" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,py&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amna-bhutto&show_icons=true&locale=en&layout=compact" alt="amna-bhutto" /></p>
 
